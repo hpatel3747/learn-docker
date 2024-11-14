@@ -1,5 +1,5 @@
 # learn-docker
--- create EC2 instance on AWS
+- create EC2 instance on AWS
 
 #### install docker
 ```text
