@@ -47,7 +47,7 @@ docker run -d -p 8080 nginx
 ```text
 docker run -d -p 8080:80 nginx
 ```
-#### run as root user
+#### run as root user, try these docker cmds
 ```text
 docker run redhat/ubi9 id
 ```
