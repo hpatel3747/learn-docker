@@ -75,3 +75,11 @@ docker logs docker_id
 #### Deploy roboshop on docker containers
 - Modify ansible code to install docker on servers and deploy roboshop on containers
 - Note that DB instances are not containerized
+
+#### note to see where git config is saved
+```text
+cat .git/config
+```
+```text
+cat var/log/secure | grep ansible
+```
